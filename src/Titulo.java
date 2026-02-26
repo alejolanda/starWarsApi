@@ -62,3 +62,7 @@ public class Titulo implements Comparable<Titulo>{
         return this.getNombre().compareTo(otroTitulo.getNombre());
     }
 }
+
+// primero ver oferta de peliculas que tiene
+// despues ofrecer menu de eleccion de cual pelicula quiere ver
+// capturar todos los datos del jsonApi
